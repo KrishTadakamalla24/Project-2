@@ -1,10 +1,16 @@
-Data Engineering Consultant at DoorDash, Ashburn, Virginia (Remote)	April 2022 – October 2023
+Data Engineering Consultant at DoorDash, Ashburn, Virginia (Remote)
+	April 2022 – October 2023
+1.	Migrated several airflow/snowflake ETL jobs from Doordash’s internal ETL 1.0 framework to ETL 2.0 framework. This process involved understanding existing logic, implementing the jobs in ETL 2.0 framework and validation/QA of migrated jobs
+2.	Performed several enhancements, optimizations, bug fixes in the existing ETL jobs as part of the data foundation team
 1.	Migrated several airflow/snowflake ETL jobs from Doordash’s internal ETL 1.0 framework to ETL 2.0 framework. This process involved understanding existing logic, implementing the jobs in ETL 2.0 framework and validation/QA of migrated jobs
 2.	Performed several enhancements, optimizations, bug fixes in the existing ETL jobs as part of the data foundation team
 Languages/Tools/Frameworks: Python, Snowflake, AWS services, Docker, Airflow
 
 
 1.	triggers downstream data ingestion airflow dags
+2.	Enhancements and fixes to deployment processes.
+3.	Development and maintenance of data ingestion airflow dags, processes.
+4.	Enhanced clinical trials ingestion process to support api change from clinicaltrials.gov site
 2.	Enhancements and fixes to deployment processes.
 3.	Development and maintenance of data ingestion airflow dags, processes.
 4.	Enhanced clinical trials ingestion process to support api change from clinicaltrials.gov site
@@ -16,6 +22,8 @@ Data Engineering Consultant at Walt Disney, Sunnyvale, CA (Remote)	Oct 2020 – 
 2.	Enhanced Anonymizer tool for anonymizing streaming PII data using Kafka(AWS MKS) and SpringBoot.
 3.	Refactored existing batch anonymization code base to accommodate streaming anonymization feature.
 4.	Developed unit test cases for Kafka streaming anonymization feature.
+2.	Enhanced Anonymizer tool for anonymizing streaming PII data using Kafka(AWS MKS) and SpringBoot.
+3.	Refactored existing batch anonymization code base to accommodate streaming anonymization feature.
 Languages/Tools/Frameworks: Java, Scala, AWS services, Docker, Kubernetes, SpringBoot, Kafka
 
 Data Engineering Consultant at Humana, Campbell, CA	March 2020 – Sep 2020
