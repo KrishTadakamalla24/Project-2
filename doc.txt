@@ -1,0 +1,28 @@
+Data Engineering Consultant at DoorDash, Ashburn, Virginia (Remote)	April 2022 – October 2023
+1.	Migrated several airflow/snowflake ETL jobs from Doordash’s internal ETL 1.0 framework to ETL 2.0 framework. This process involved understanding existing logic, implementing the jobs in ETL 2.0 framework and validation/QA of migrated jobs
+2.	Performed several enhancements, optimizations, bug fixes in the existing ETL jobs as part of the data foundation team
+Languages/Tools/Frameworks: Python, Snowflake, AWS services, Docker, Airflow
+
+
+1.	triggers downstream data ingestion airflow dags
+2.	Enhancements and fixes to deployment processes.
+3.	Development and maintenance of data ingestion airflow dags, processes.
+4.	Enhanced clinical trials ingestion process to support api change from clinicaltrials.gov site
+Languages/Tools/Frameworks: Python, Java, PySpark, Spark, AWS services, Docker, Kubernetes, Airflow Data Engineer at Komodo Health, Sunnyvale, CA (Remote)	June 2021 – March 2022
+Developed files detector process that checks for new data arrival in sftp servers and automatically
+
+Data Engineering Consultant at Walt Disney, Sunnyvale, CA (Remote)	Oct 2020 – June 2021
+1.	Enhanced Kubernetes based applications with features like ConfigMaps, Graceful Shutdown etc.
+2.	Enhanced Anonymizer tool for anonymizing streaming PII data using Kafka(AWS MKS) and SpringBoot.
+3.	Refactored existing batch anonymization code base to accommodate streaming anonymization feature.
+4.	Developed unit test cases for Kafka streaming anonymization feature.
+Languages/Tools/Frameworks: Java, Scala, AWS services, Docker, Kubernetes, SpringBoot, Kafka
+
+Data Engineering Consultant at Humana, Campbell, CA	March 2020 – Sep 2020
+1.	Developed and enhanced CI/CD azure pipelines for various components in the data platform involving azure data factories/pipelines, azure monitoring, markdown linting etc
+2.	Enhanced the data ingestion spark framework to integrate platform SDK and transform SDK for more multi purpose use cases.
+Languages/Tools/Frameworks: Python, Scala, Azure services, Databricks, Spark, Docker, Terraform
+
+Data Engineering Consultant at Kohl’s, Milpitas, CA	Oct 2019 – Feb 2020
+1.	Developed ETL components for projected-sales application which calculates and projects various sales metrics for Ecom & Store demand, fulfillment etc based on year on year basis.
+Languages/Tools/Frameworks: Python, Airflow, BigQuery, GCP
